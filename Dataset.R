@@ -6,7 +6,6 @@ library(nflreadr)
 library(readxl)
 library(tibble)
 library(tidyr)
-setwd("~/Desktop/School/Courses/MSO6611/Projet Final")
 Offense_and_Defense <- read_excel("Offense and Defense.xlsx")
 
 ############################## Creating dataset
